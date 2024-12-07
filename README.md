@@ -1,7 +1,7 @@
 # Risk-Based Premiums and Real-Time Safety Guidance for Car Insurance Customer Retention
 
 ### Overview 
-Problem Statement:
+# Problem Statement:
 Auto insurance companies traditionally use demographic data and historical claims to set premiums, but this approach often fails to accurately assess the risk of individual drivers. This misalignment results in customers paying premiums that do not reflect their actual driving behavior or environmental conditions. BMK Insurance recognized this issue and developed a predictive modeling framework aimed at assessing individual accident risk. By incorporating real-time data, including weather, traffic patterns, and driving behaviors, the company seeks to create dynamic, personalized premiums that better align with each customer's unique risk exposure. This project addresses the need for a more precise, data-driven approach to insurance pricing, leading to fairer premiums, improved customer satisfaction, and better customer retention.
 
 Approach:
