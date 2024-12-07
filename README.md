@@ -24,11 +24,11 @@ Data Integration: The project involved the integration of various real-time data
 
 Machine Learning Models: The MLP model, chosen for its robust performance in handling non-linear relationships, was trained and validated using historical data to predict accident severity. CatBoost, an algorithm optimized for categorical data, showed slightly better performance but was ultimately surpassed by the MLP in terms of real-world applicability.
 
+Feature Importance: Analysis revealed that factors like weather conditions, traffic density, and driver behaviors play a significant role in predicting accident severity, allowing BMK Insurance to optimize its risk assessment process.
+
 Dynamic Insurance Pricing: Based on the predictions of accident severity and personalized risk scores, the model generates dynamic, real-time insurance premiums that are tailored to individual driving environments, ensuring fair pricing.
 
 Real-Time Alerts and Route Suggestions: The system provides real-time alerts for adverse weather and high-risk traffic conditions, along with suggestions for safer, less congested routes to improve driver safety.
-
-Feature Importance: Analysis revealed that factors like weather conditions, traffic density, and driver behaviors play a significant role in predicting accident severity, allowing BMK Insurance to optimize its risk assessment process.
 
 By leveraging machine learning and real-time data, BMK Insurance has developed a proactive approach to insurance pricing, offering personalized premiums based on real-time risk factors. This innovative system not only provides fairer pricing but also fosters customer loyalty through enhanced safety measures and personalized services. Future research could expand on these findings by exploring temporal factors and further refining the predictive models to improve accuracy.
 
