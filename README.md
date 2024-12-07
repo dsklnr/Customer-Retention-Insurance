@@ -7,16 +7,16 @@ Auto insurance companies traditionally use demographic data and historical claim
 ### Approach:
 This study utilized machine learning techniques to predict accident severity, with the ultimate goal of developing a dynamic pricing model for auto insurance. The approach involved:
 
-### Data Collection and Integration: 
+1.  Data Collection and Integration: 
 A comprehensive dataset was created by integrating various data sources, including weather conditions, traffic patterns, and accident history. Real-time data was also used to capture current environmental conditions, ensuring that predictions reflect the latest driving environments.
 
-### Model Selection: 
+2. Model Selection: 
 Two primary models were evaluated for their predictive capabilities: the Multi-Layer Perceptron (MLP) and CatBoost. Both models demonstrated strong performance, but the MLP model was selected for deployment due to its ability to capture complex non-linear relationships and its scalability. The model showed an excellent fit with a low Root Mean Squared Error (RMSE) of 0.0436 and an R-squared value of 0.8830.
 
-### Risk Assessment and Personalized Pricing:
+3. Risk Assessment and Personalized Pricing:
 The MLP model was used to predict accident severity based on environmental and driving conditions. These predictions were then used to calculate personalized risk scores for individual drivers, which formed the basis for dynamic, risk-based insurance premiums.
 
-Real-Time Safety Guidance: In addition to predictive modeling, BMK Insurance implemented a system that provides real-time safety alerts and route recommendations based on current weather and traffic conditions, aiming to reduce accident risk for drivers in real-time.
+4. Real-Time Safety Guidance: In addition to predictive modeling, BMK Insurance implemented a system that provides real-time safety alerts and route recommendations based on current weather and traffic conditions, aiming to reduce accident risk for drivers in real-time.
 
 # Key Features:
 
