@@ -1,4 +1,4 @@
-# Risk-Based Premiums and Real-Time Safety Guidance for Car Insurance Customer Retention
+# Predictive Modeling for Risk-Based Premiums and Real-Time Safety Guidance in Auto Insurance Customer Retention
 
 # Overview 
 ### Problem Statement:
