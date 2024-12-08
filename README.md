@@ -35,6 +35,8 @@ Real-Time Alerts and Route Suggestions: The system provides real-time alerts for
 By leveraging machine learning and real-time data, BMK Insurance has developed a proactive approach to insurance pricing, offering personalized premiums based on real-time risk factors. This innovative system not only provides fairer pricing but also fosters customer loyalty through enhanced safety measures and personalized services. Future research could expand on these findings by exploring temporal factors and further refining the predictive models to improve accuracy.
 </br>
 </br>
+</br>
+</br>
 
 # Using the Predictive Model
 
