@@ -60,6 +60,8 @@ Now enter any or all fields in the webpage, where the application can predict a 
 Additionally, the route will show on google maps based on provided zip codes and a severity score will be output to the webpage.
 </br>
 </br>
+![Alt text](https://github.com/dsklnr/Customer-Retention-Insurance/blob/main/images/streamlit_image.png)
+</br>
 
 ### Troubleshooting Streamlit
 You might encounter issues where your interpreter cannot find libraries that are already installed on your machine. If that happens, create a local virtual environment. Below are steps to do so.
