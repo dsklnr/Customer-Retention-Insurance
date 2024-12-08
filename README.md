@@ -17,6 +17,8 @@ Two primary models were evaluated for their predictive capabilities: the Multi-L
 The MLP model was used to predict accident severity based on environmental and driving conditions. These predictions were then used to calculate personalized risk scores for individual drivers, which formed the basis for dynamic, risk-based insurance premiums.
 
 4. Real-Time Safety Guidance: In addition to predictive modeling, BMK Insurance implemented a system that provides real-time safety alerts and route recommendations based on current weather and traffic conditions, aiming to reduce accident risk for drivers in real-time.
+</br>
+</br>
 
 # Key Features:
 
@@ -31,6 +33,8 @@ Dynamic Insurance Pricing: Based on the predictions of accident severity and per
 Real-Time Alerts and Route Suggestions: The system provides real-time alerts for adverse weather and high-risk traffic conditions, along with suggestions for safer, less congested routes to improve driver safety.
 
 By leveraging machine learning and real-time data, BMK Insurance has developed a proactive approach to insurance pricing, offering personalized premiums based on real-time risk factors. This innovative system not only provides fairer pricing but also fosters customer loyalty through enhanced safety measures and personalized services. Future research could expand on these findings by exploring temporal factors and further refining the predictive models to improve accuracy.
+</br>
+</br>
 
 # Using the Predictive Model
 
