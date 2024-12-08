@@ -60,7 +60,9 @@ Now enter any or all fields in the webpage, where the application can predict a 
 Additionally, the route will show on google maps based on provided zip codes and a severity score will be output to the webpage.
 </br>
 </br>
+
 ![Alt text](https://github.com/dsklnr/Customer-Retention-Insurance/blob/main/images/streamlit_image.png)
+</br>
 </br>
 
 ### Troubleshooting Streamlit
